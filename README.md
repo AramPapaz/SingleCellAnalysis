@@ -1,6 +1,6 @@
 # Single Cell RNA-seq
 
-The dataset consists of human cells from the bone marrow and the CD34+ Enriched Bone Marrow Cells.
+__The dataset consists of human cells from the bone marrow and the CD34+ Enriched Bone Marrow Cells.__
 
 * Data was preprocessed using the canonical Seurat protocol.
 
