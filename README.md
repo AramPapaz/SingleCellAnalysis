@@ -8,7 +8,7 @@ __The dataset consists of human cells from the bone marrow and the CD34+ Enriche
 
 * Dimensionality Reduction and Clustering using PCA and UMAP.
 
-* Both Manual (CellMaker) and Automatic Cell Type Annnotation (__SingleR__) Performed.
+* Both Manual (CellMarker) and Automatic Cell Type Annnotation (__SingleR__) Performed.
 
 * Trajectory Analysis (__Monocle3__).
 
